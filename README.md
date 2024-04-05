@@ -1,4 +1,4 @@
-# conflict-resolution
+# conflict-resolution-thais
 
 ## This is a sub-heading created on GitHub
 
